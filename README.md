@@ -18,7 +18,7 @@ Asset naming:
 - `afn-v1.0.0.exe` for Atlas Fortnite Free
 - `aperm-v1.0.0.exe` for Atlas Perm Spoofer
 - `rbx-v0.9.0-beta.exe` for Atlas Roblox External
-- `ul-v0.0.0-placeholder.txt` until the new Uni Loader build exists
+- `ul-v1.0.0.exe` for Uni Loader
 - `cs2-v0.0.0-placeholder.txt` until the new CS2 build exists
 
 Workflow:

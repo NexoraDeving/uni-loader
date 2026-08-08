@@ -71,11 +71,11 @@
       "id": "uni-loader",
       "code": "ul",
       "name": "Uni Loader",
-      "currentVersion": "0.0.0",
-      "currentAsset": "ul-v0.0.0-placeholder.txt",
-      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/ul-v0.0.0-placeholder.txt",
+      "currentVersion": "1.0.0",
+      "currentAsset": "ul-v1.0.0.exe",
+      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/ul-v1.0.0.exe",
       "sourceFile": null,
-      "status": "placeholder"
+      "status": "ready"
     },
     {
       "id": "atlas-cs2",
