@@ -11,6 +11,11 @@
       "Publish one versioned asset name per app."
     ]
   },
+  "updateStrategy": {
+    "manifestUrl": "https://raw.githubusercontent.com/NexoraDeving/uni-loader/main/apps.json",
+    "releaseChannel": "latest",
+    "releaseAssetUrlPattern": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/{assetName}"
+  },
   "apps": [
     {
       "id": "atlas-cleaner",
@@ -18,6 +23,7 @@
       "name": "Atlas Free Cleaner",
       "currentVersion": "1.0.0",
       "currentAsset": "aclr-v1.0.0.exe",
+      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/aclr-v1.0.0.exe",
       "sourceFile": "Atlas Free Cleaner.exe",
       "status": "ready"
     },
@@ -27,6 +33,7 @@
       "name": "Atlas Free Temp",
       "currentVersion": "1.0.0",
       "currentAsset": "atmp-v1.0.0.exe",
+      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/atmp-v1.0.0.exe",
       "sourceFile": "Atlas Free Temp.exe",
       "status": "ready"
     },
@@ -36,6 +43,7 @@
       "name": "Atlas Fortnite Free",
       "currentVersion": "1.0.0",
       "currentAsset": "afn-v1.0.0.exe",
+      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/afn-v1.0.0.exe",
       "sourceFile": "atlasfreefn.exe",
       "status": "ready"
     },
@@ -45,6 +53,7 @@
       "name": "Atlas Perm Spoofer",
       "currentVersion": "1.0.0",
       "currentAsset": "aperm-v1.0.0.exe",
+      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/aperm-v1.0.0.exe",
       "sourceFile": "atlaspermspoofer.exe",
       "status": "ready"
     },
@@ -54,6 +63,7 @@
       "name": "Atlas Roblox External",
       "currentVersion": "0.9.0-beta",
       "currentAsset": "rbx-v0.9.0-beta.exe",
+      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/rbx-v0.9.0-beta.exe",
       "sourceFile": "Roblox External.exe",
       "status": "ready"
     },
@@ -63,6 +73,7 @@
       "name": "Uni Loader",
       "currentVersion": "0.0.0",
       "currentAsset": "ul-v0.0.0-placeholder.txt",
+      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/ul-v0.0.0-placeholder.txt",
       "sourceFile": null,
       "status": "placeholder"
     },
@@ -72,6 +83,7 @@
       "name": "Atlas CS2",
       "currentVersion": "0.0.0",
       "currentAsset": "cs2-v0.0.0-placeholder.txt",
+      "downloadUrl": "https://github.com/NexoraDeving/uni-loader/releases/latest/download/cs2-v0.0.0-placeholder.txt",
       "sourceFile": null,
       "status": "placeholder"
     }
