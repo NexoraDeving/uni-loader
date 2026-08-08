@@ -1,3 +1,79 @@
 {
-  "apps": []
+  "catalogVersion": 1,
+  "repository": "NexoraDeving/uni-loader",
+  "updatedAt": "2026-08-08",
+  "assetNaming": {
+    "assetPattern": "{code}-v{version}.exe",
+    "placeholderPattern": "{code}-v{version}-placeholder.txt",
+    "rules": [
+      "Use the exact code from this file.",
+      "Use lowercase asset names only.",
+      "Publish one versioned asset name per app."
+    ]
+  },
+  "apps": [
+    {
+      "id": "atlas-cleaner",
+      "code": "aclr",
+      "name": "Atlas Free Cleaner",
+      "currentVersion": "1.0.0",
+      "currentAsset": "aclr-v1.0.0.exe",
+      "sourceFile": "Atlas Free Cleaner.exe",
+      "status": "ready"
+    },
+    {
+      "id": "atlas-temp",
+      "code": "atmp",
+      "name": "Atlas Free Temp",
+      "currentVersion": "1.0.0",
+      "currentAsset": "atmp-v1.0.0.exe",
+      "sourceFile": "Atlas Free Temp.exe",
+      "status": "ready"
+    },
+    {
+      "id": "atlas-fortnite",
+      "code": "afn",
+      "name": "Atlas Fortnite Free",
+      "currentVersion": "1.0.0",
+      "currentAsset": "afn-v1.0.0.exe",
+      "sourceFile": "atlasfreefn.exe",
+      "status": "ready"
+    },
+    {
+      "id": "atlas-perm",
+      "code": "aperm",
+      "name": "Atlas Perm Spoofer",
+      "currentVersion": "1.0.0",
+      "currentAsset": "aperm-v1.0.0.exe",
+      "sourceFile": "atlaspermspoofer.exe",
+      "status": "ready"
+    },
+    {
+      "id": "atlas-roblox",
+      "code": "rbx",
+      "name": "Atlas Roblox External",
+      "currentVersion": "0.9.0-beta",
+      "currentAsset": "rbx-v0.9.0-beta.exe",
+      "sourceFile": "Roblox External.exe",
+      "status": "ready"
+    },
+    {
+      "id": "uni-loader",
+      "code": "ul",
+      "name": "Uni Loader",
+      "currentVersion": "0.0.0",
+      "currentAsset": "ul-v0.0.0-placeholder.txt",
+      "sourceFile": null,
+      "status": "placeholder"
+    },
+    {
+      "id": "atlas-cs2",
+      "code": "cs2",
+      "name": "Atlas CS2",
+      "currentVersion": "0.0.0",
+      "currentAsset": "cs2-v0.0.0-placeholder.txt",
+      "sourceFile": null,
+      "status": "placeholder"
+    }
+  ]
 }

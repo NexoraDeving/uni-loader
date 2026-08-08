@@ -1,0 +1,3 @@
+Placeholder for the next CS2 executable.
+
+Replace this file with the real CS2 release asset when the updated build is ready.
